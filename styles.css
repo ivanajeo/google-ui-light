@@ -68,7 +68,7 @@ h1 {
 }
 
 .searchBar:hover {
-    box-shadow: 1px 1px 5px 1px lightgrey;
+    box-shadow: 0 1px 5px 1px lightgrey;
     border: 1px solid transparent;
 }
 
